@@ -1,1 +1,4 @@
 .env
+deploy.sh
+gdrive.sqlite
+*pyc

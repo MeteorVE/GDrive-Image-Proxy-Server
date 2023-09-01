@@ -1,0 +1,8 @@
+sqlite3
+python-dotenv
+datetime
+google-auth 
+google-auth-oauthlib 
+google-auth-httplib2 
+google-api-python-client
+pycryptodome
